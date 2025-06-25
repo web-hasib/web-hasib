@@ -3,14 +3,15 @@
 
 
 
-
 <div align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNuZzZ2YmJpenVkdGkwMXBzdmkxMTNsZnhjazdsOGdkZTFlbXpmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3c3VsdzdqcjZ4MXg1M2l4NHM2dG96ajJucDV6cTFkb2M4Z3BxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif)" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3c3VsdzdqcjZ4MXg1M2l4NHM2dG96ajJucDV6cTFkb2M4Z3BxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" width="400">
 </div>
 
 
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=Hasibul%20Islam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Frontend%20Specialist&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=Hasibul%20Islam&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Frontend%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -20,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNuZzZ2YmJpenVkdGkwMXBzdmkxMTNsZnhjazdsOGdkZTFlbXpmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNuZzZ2YmJpenVkdGkwMXBzdmkxMTNsZnhjazdsOGdkZTFlbXpmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
@@ -183,19 +184,19 @@ const currentGoals = {
   
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"> Thanks for Visiting!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 
 **Let's build something amazing together! 🚀**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=120&section=footer&animation=fadeIn" width="100%"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
+</div>
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
-</div>
 
 
 
@@ -221,9 +222,7 @@ const currentGoals = {
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
-</div>
+
 
 
 
