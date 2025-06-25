@@ -29,8 +29,8 @@ const hasibulIslam = {
     email: "hasibulislam2529@gmail.com",
     portfolio: "https://hasibul-islam-portfolio.netlify.app/",
     funFact: "I love turning ideas into reality with code! 🚀"
-};
-
+};```
+<br/>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=web-hasib&style=for-the-badge&color=blue" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/web-hasib?style=for-the-badge&color=blue&labelColor=black" alt="Followers" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" /> </div>
 🛠️ Tech Stack
 <div align="center"> <img src="https://raw.githubusercontent.com/web-hasib/web-hasib/main/tech-stack.png" width="800"/> </div>
@@ -39,13 +39,13 @@ const hasibulIslam = {
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=web-hasib&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" /> </div>
 
-const currentGoals = {
+```const currentGoals = {
   🔥 building: "High-quality MERN Stack Projects",
   📚 learning: "Next.js, TypeScript, Advanced Backend",
   🎯 mastering: "Full-Stack Best Practices",
   🚀 exploring: "Scalable Backend and Modern UI",
   💡 focus: "User Experience and Performance"
-};
+};```<br/>
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"> </div>
 
 
